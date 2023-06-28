@@ -1,2 +1,2 @@
-# ASLonMax
-Repository for a standalone Maxim78000 implementation for Sign-Language recognition 
+# ASL_Spelling
+Handy application to spell phrases using CNN on Maxim78000
